@@ -236,7 +236,7 @@ void writeToFile(const string& filename, const string& content) {
 }
 // Main function to drive the VCS
 int main() {
-    cout << "Welcome to Basic VCS\n";
+    cout << "Welcome to Chronicle VCS\n";
     string command, content, filename, message, commitID;
 
     while (true) {
