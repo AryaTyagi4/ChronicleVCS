@@ -1,0 +1,14 @@
+This is a sample text file created for testing purposes in the Version Control System (VCS). The contents of this file include various types of data to ensure that the VCS handles different scenarios correctly.
+
+List of Items:
+
+Item 1: Apple
+Item 2: Banana
+Item 3: Cherry
+Simple Calculations:
+
+Sum of 1 + 2 = 3
+Product of 3 * 4 = 12
+Quotes:
+
+"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
